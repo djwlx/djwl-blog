@@ -418,7 +418,7 @@ footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content:
-    '<div style="display: flex; justify-content: center; background-image: url(''https://img.djwl.top/icon/%E5%8F%88%E6%8B%8D%E4%BA%91_logo8.svg''); background-size: 120px 120px; background-position: calc(50% - 57px) -39px; background-repeat: no-repeat;">
+    '<div style="display: flex; justify-content: center; background-image: url(''https://img.djwl.top/icon/%E5%8F%88%E6%8B%8D%E4%BA%91_logo8.svg''); background-size: 120px 120px; background-position: calc(50% - 57px) -38px; background-repeat: no-repeat;">
     <a style="display: flex; align-items: center; gap: 3px" href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">
     <span>本网站由</span>
     <div style="display: inline-block; width: 60px"></div>
